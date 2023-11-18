@@ -39,7 +39,7 @@ python su_tasarrufu_hesaplayici.py
 Bu proje [MIT Lisansı](LICENSE.md) altında lisanslanmıştır.
 
 ## Destek ve İletişim
-- Sorularınız veya geri bildirimleriniz için [işlem](https://github.com/ahmetbalcik/hastalik-tahmini-uygulamasi/issues) açabilirsiniz.
+- Sorularınız veya geri bildirimleriniz için [işlem](https://github.com/ahmetbalcik/su_tasarrufu_hesaplayici/issues) açabilirsiniz.
 
 ## Yazar
 - Ahmet Balçık
